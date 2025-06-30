@@ -2,7 +2,7 @@
 
 Este proyecto implementa una API RESTful en **C# con ASP.NET Core** y **SQLite** como base de datos. Permite a los usuarios crear URLs cortas a partir de URLs largas, recuperarlas, actualizarlas, eliminarlas y ver estadísticas de uso. Además, incluye funcionalidad de redirección automática.
 
----
+https://roadmap.sh/projects/url-shortening-service
 
 ## Tecnologías usadas
 
